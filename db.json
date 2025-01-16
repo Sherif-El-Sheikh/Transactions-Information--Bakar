@@ -1,0 +1,74 @@
+{
+    "transactions": [
+        {
+            "amount": 100.50,
+            "currency": "EUR",
+            "cardholder": "Dai Yuan",
+            "status": "Succeeded",
+            "created": "2006-11-15T00:00:00Z"
+        },
+        {
+            "amount": 750.00,
+            "currency": "EUR",
+            "cardholder": "Dai Yuan",
+            "status": "Pending",
+            "created": "2006-11-15T00:00:00Z"
+        },
+        {
+            "amount": 8603.00,
+            "currency": "EUR",
+            "cardholder": "James Smith",
+            "status": "Canceled",
+            "created": "2007-11-15T00:00:00Z"
+        },
+        {
+            "amount": 9000.00,
+            "currency": "EUR",
+            "cardholder": "James Smith",
+            "status": "Failed",
+            "created": "2007-11-15T00:00:00Z"
+        },
+        {
+            "amount": 10000.00,
+            "currency": "EUR",
+            "cardholder": "James Smith",
+            "status": "Refunded",
+            "created": "2007-11-15T00:00:00Z"
+        },
+        {
+            "amount": 7493.00,
+            "currency": "EUR",
+            "cardholder": "James Smith",
+            "status": "Disputed",
+            "created": "2007-11-15T00:00:00Z"
+        },
+        {
+            "amount": 400.00,
+            "currency": "EUR",
+            "cardholder": "James Smith",
+            "status": "Succeeded",
+            "created": "2007-11-15T00:00:00Z"
+        },
+        {
+            "amount": 600.00,
+            "currency": "EUR",
+            "cardholder": "James Smith",
+            "status": "Succeeded",
+            "created": "2007-11-15T00:00:00Z"
+        },
+        {
+            "amount": 700.00,
+            "currency": "EUR",
+            "cardholder": "James Smith",
+            "status": "Succeeded",
+            "created": "2007-11-15T00:00:00Z"
+        },
+        {
+            "amount": 300.00,
+            "currency": "EUR",
+            "cardholder": "James Smith",
+            "status": "Succeeded",
+            "created": "2007-11-15T00:00:00Z"
+        }
+    ]
+}
