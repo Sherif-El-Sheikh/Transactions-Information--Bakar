@@ -7,3 +7,7 @@ This repository contains the solution for a frontend task at **Bakar Fintech Lim
 - **json-server** for serving the data locally from a JSON file.
 - **My JSON Server** (https://my-json-server.typicode.com/) to simulate API responses and provide the data.
 
+### API Endpoint:
+The app retrieves data from the following API:
+
+- [https://my-json-server.typicode.com/Sherif-El-Sheikh/Transactions-Information-Backend/transactions](https://my-json-server.typicode.com/Sherif-El-Sheikh/Transactions-Information-Backend/transactions)
